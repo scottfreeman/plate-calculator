@@ -15,7 +15,6 @@ export const metadata: Metadata = {
   authors: [{ name: 'Scott Freeman', url: 'https://scottfreeman.net' }],
   keywords:
     'plate calculator, weight plate, gym, calculator, weight calculator, powerlifting, olympic lifting, weight training',
-  themeColor: '#000000',
   openGraph: {
     url: 'https://plates.scottfreeman.net',
     type: 'website',
@@ -39,7 +38,6 @@ export const metadata: Metadata = {
     { rel: 'apple-touch-icon', url: '/icons/512.png' },
     { rel: 'shortcut icon', url: '/favicon.ico' }
   ],
-  viewport: 'minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no, viewport-fit=cover',
   manifest: '/manifest.json'
 };
 

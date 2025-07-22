@@ -5,7 +5,7 @@ const Icon = () => {
     <svg xmlns='http://www.w3.org/2000/svg' width='32' height='32' id='barbell'>
       <g transform='translate(-9.681 -701.37)'>
         <circle cx='25.681' cy='717.37' r='16' fill='#dc2626' fill-rule='evenodd'></circle>
-        <g fill='#f2f2f2' stroke='#373748' stroke-linecap='round' stroke-linejoin='round' color='#000'>
+        <g fill='#f2f2f2' stroke='#373748' strokeLinecap='round' strokeLinejoin='round' color='#000'>
           <path
             d='M894 1778.362h31v3h-31z'
             overflow='visible'
